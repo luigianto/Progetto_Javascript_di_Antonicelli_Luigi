@@ -1,10 +1,24 @@
+Progetto Contatore JS di Antonicelli Luigi🚀
+Semplice applicazione contatore realizzata con HTML, CSS e JavaScript.
+
+🔗 Link Demo
+Puoi provare l'applicazione qui: [https://github.com/luigianto/Progetto-contatore-JS.git]
+https://app.netlify.com/projects/elegant-taiyaki-a9e54e/deploys/69cc33f801c87e0008e58c1c
+
+📸 Screenshot
+(/assets/img/Progetto_contatore.png)
+
+📝 Descrizione
+Questo progetto permette di incrementare, decrementare o resettare un valore numerico in tempo reale.
+L'interfaccia è stata completamente sviluppato in javascript utilizzando la manipolazione del DOM, mentre ho utilizzato css per la parte degli stili.
+
+Testing
+per testare il funzionamento dell'applicazione, basterà provare a incrementare o decrementare il contatore, selezionando gli appositi bottoni e verificare che il contatore venga modificato.
+Sono riuscito a testarla completamente su netlify.
+
 # Contatore Dinamico JavaScript
 
 Un'applicazione web che simula il comportamento di un counter (contatore), sviluppata interamente in JavaScript puro con manipolazione dinamica del DOM.
-
-## Descrizione
-
-L'applicazione permette all'utente di aumentare, diminuire o azzerare il valore di un contatore tramite tre pulsanti interattivi. L'interfaccia viene costruita completamente via JavaScript, senza alcun HTML statico dedicato ai componenti UI.
 
 ## Funzionalità
 
@@ -91,8 +105,3 @@ function updateDisplay() {
   else countDisplay.style.color = "#2c3e50";
 }
 ```
-
-## Autore
-
-Luigi Antonicelli
-Progetto realizzato nell'ambito del corso di Web Development su **Start2Impact**.

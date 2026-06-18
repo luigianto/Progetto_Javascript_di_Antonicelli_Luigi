@@ -2,7 +2,7 @@ Progetto Contatore JS di Antonicelli Luigi🚀
 Semplice applicazione contatore realizzata con HTML, CSS e JavaScript.
 
 🔗 Link Demo
-Puoi provare l'applicazione qui: [https://github.com/luigianto/Progetto-contatore-JS.git]
+Puoi provare l'applicazione qui: [https://luigianto.github.io/Progetto_Javascript_di_Antonicelli_Luigi/]
 https://app.netlify.com/projects/elegant-taiyaki-a9e54e/deploys/69cc33f801c87e0008e58c1c
 
 📸 Screenshot
